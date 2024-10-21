@@ -1,0 +1,9 @@
+{
+	"name": "Data-engg-factory-project23",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "098a3de4-2a8d-4c86-a00e-16dab1106386",
+		"tenantId": "9caff49a-ffc2-46ec-8854-cedf583c7e20"
+	}
+}
