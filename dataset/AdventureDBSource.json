@@ -1,0 +1,12 @@
+{
+	"name": "AdventureDBSource",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "SQL_linked_service",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "SqlServerTable",
+		"schema": []
+	}
+}
